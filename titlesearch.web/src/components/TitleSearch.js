@@ -71,7 +71,7 @@ const TitleSearch = () => {
         <h3>Online Title Search</h3>
         <br />
         <Form.Group controlId="formBasicEmail">
-          <Form.Label>Key Words:</Form.Label>
+          <Form.Label>Key words:</Form.Label>
           <Form.Control
             required
             type="text"
