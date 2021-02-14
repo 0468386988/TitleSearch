@@ -84,8 +84,8 @@ const TitleSearch = () => {
           </Form.Control.Feedback>
         </Form.Group>
         <Form.Group controlId="formBasicPassword">
-          <Form.Label>URL:</Form.Label>
-          <Form.Control
+          <Form.Label>Domain:</Form.Label>
+          <Form.Controls
             required
             type="text"
             placeholder="e.g. https://www.infotrack.com.au"
