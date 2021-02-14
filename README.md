@@ -1,9 +1,9 @@
 # TitleSearch
 Infotrack test project
 
-Domin: https://sleepy-kowalevski-17f8ea.netlify.app/
+Domin (netlify): https://sleepy-kowalevski-17f8ea.netlify.app/
 
-Api: https://titlesearchapi20210214101148.azurewebsites.net/swagger/index.html
+Api (Azure): https://titlesearchapi20210214101148.azurewebsites.net/swagger/index.html
 
 ![WeChat Image_20210214174427](https://user-images.githubusercontent.com/51746409/107871390-cb796580-6eec-11eb-8300-2a891881699f.png)
 
