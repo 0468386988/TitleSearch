@@ -53,7 +53,7 @@ Using MediatR and CQRS Pattern, this module is just a series of request / respon
   
   Use OOP and Factory pattern and deal with core task, html parsing. It is easy to add more searching engine.
 
-# Title.web:
+# titlesearch.web:
 ReactJS
 
   Dependencies: 
@@ -61,3 +61,20 @@ ReactJS
   	react-bootstrap, multiselect-react-dropdown
   
   Cover front-end validation, loading, exception report.
+  
+ # To build:
+ Clone repository in IDV, like vs code. Open terminals.
+ 
+ * For TitleSearch.Api: 
+      
+       cd titlesearch.Api
+      
+       dotnet run
+     
+ * For titlesearch.web: 
+ 
+       cd titlesearch.web
+      
+       npm install
+
+       npm start
