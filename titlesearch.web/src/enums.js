@@ -5,4 +5,4 @@ export const SEARCH_SUCCESS = "Success";
 export const SEARCH_LOADING = "Loading";
 export const SEARCH_NO_RECORD = "No record";
 export const ENGINE_LOADING = "Loading";
-export const ENGINE_SUCCESS = "Ready to go";
+export const ENGINE_SUCCESS = "";

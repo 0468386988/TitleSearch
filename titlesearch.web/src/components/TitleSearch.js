@@ -97,7 +97,7 @@ const TitleSearch = () => {
           </Form.Control.Feedback>
         </Form.Group>
         <Form.Group controlId="exampleForm.ControlSelect1">
-          <Form.Label>Within records number:</Form.Label>
+          <Form.Label>Range:</Form.Label>
           <Form.Control
             value={within}
             onChange={(e) => setWithin(e.target.value)}
